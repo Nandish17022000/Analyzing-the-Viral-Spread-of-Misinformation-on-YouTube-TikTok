@@ -1,0 +1,2 @@
+# Analyzing-the-Viral-Spread-of-Misinformation-on-YouTube-TikTok
+An end-to-end data science workflow investigating misinformation's spread. This project uses YouTubeVideDownload.py for web scraping and cleaningData.py for data prep. The core is a Negative Binomial Regression model (Negative_Binomial_Regression.ipynb) to find key engagement drivers. The repository includes all data scripts and models of findings.
