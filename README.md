@@ -1,3 +1,4 @@
 # Analyzing-the-Viral-Spread-of-Misinformation-on-YouTube-TikTok
 Who is truly shaping the narrative around mental health online? This project dives into the world of antidepressant testimonials on YouTube and TikTok, using Google's Gemini Pro LLM to analyze video content at scale. The findings reveal a landscape where personal narratives from influencers (68.4%) vastly outnumber those from medical experts (6.0%) , and discussions of severe side effects are far more common than reports of medication efficacy, highlighting a critical challenge in modern public health communication.
+
 An end-to-end data science workflow investigating misinformation's spread. This project uses YouTubeVideDownload.py for web scraping and cleaningData.py for data prep. The core is a Negative Binomial Regression model (Negative_Binomial_Regression.ipynb) to find key engagement drivers. The repository includes all data scripts and models of findings.
